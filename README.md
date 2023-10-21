@@ -1,5 +1,6 @@
 
 # 2023년 스케일카 기반 자울주행 경진대회
+최우수상(2등)
 
 ## 멤버
 
@@ -10,4 +11,4 @@
 - 정혁제
 
 ## 대회 포스터 
-![image](https://github.com/sc-car/scale-car-2023/assets/39543006/112867b0-6df7-4337-94ee-d31ab153b3ea)
+![image](https://user-images.githubusercontent.com/65781023/277103591-d8c32672-fb53-42a0-aa97-8516055c3f83.JPG)
